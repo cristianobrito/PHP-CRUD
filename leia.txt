@@ -1,0 +1,12 @@
+1 . crie um diretorio chamado php-crud dentro do diretorio htdocs do xampp:
+        [ PHP-CRUD ]
+
+2 . dentro desse diretorio php-crud crie um arquivo chamado:
+        [ index.php ]
+
+3 . crie um novo arquivo chamado:
+        [ processo.php ]
+
+4 . https://www.youtube.com/watch?v=3xRMUDC74Cw  
+
+5 . 
